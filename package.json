@@ -1,0 +1,10 @@
+{
+  "name": "poll-bot",
+  "version": "1.0.0",
+  "description": "Poll bot for Joseph",
+  "main": "bot.js",
+  "author": "Chris Z",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
